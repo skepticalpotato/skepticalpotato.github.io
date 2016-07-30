@@ -1,0 +1,13 @@
+{
+	"auth_service": "ptc",
+	"users":[
+		{"username": "brobotscan", "password": "20percent"},
+		{"username": "brobotscan2", "password": "20percent"},
+		{"username": "brobotscan5", "password": "20percent"},
+		{"username": "brobotscan6", "password": "20percent"},
+		{"username": "brobotscan3", "password": "20percent"}
+	],
+	"work":[
+		[33.360420,-86.735525, 33.419420,-86.672042]
+	]
+}
